@@ -77,3 +77,5 @@ var scores = [ {
       4
     ]
 }];
+
+module.exports = scores;
