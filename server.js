@@ -3,7 +3,7 @@ var router = require('./app/routing/htmlRoutes.js');
 
 var app = express();
 
-var PORT = process.env.PORT || 8000;
+var PORT = process.env.PORT || 8080;
 
 router(app);
 
